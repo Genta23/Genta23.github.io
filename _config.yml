@@ -10,8 +10,8 @@ aux_links:
 plugins:
   - jekyll-default-layout
 
-title: Gentaのウェブサイト
-description: Gentaのwebサイトです
+title: beyond description
+description: This page is written by Genta
 theme: just-the-docs
 
 url: https://Genta23.github.io
