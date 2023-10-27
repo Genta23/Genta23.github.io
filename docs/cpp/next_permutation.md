@@ -1,7 +1,7 @@
 ---
 title: next permutation
 layout: default
-parent: cpp
+parent: AtCoder
 ---
 
 # next_permutation

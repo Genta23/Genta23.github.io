@@ -1,7 +1,7 @@
 ---
 title: map
 layout: default
-parent: cpp
+parent: AtCoder
 ---
 # map
 

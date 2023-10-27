@@ -1,7 +1,7 @@
 ---
 title: Mini Max
 layout: default
-parent: cpp
+parent: AtCoder
 ---
 
 # Mini Max

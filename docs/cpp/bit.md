@@ -1,7 +1,7 @@
 ---
 title: bit全探索
 layout: default
-parent: cpp
+parent: AtCoder
 ---
 
 # bit

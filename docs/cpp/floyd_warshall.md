@@ -1,7 +1,7 @@
 ---
 title: ワーシャルフロイド法
 layout: default
-parent: cpp
+parent: AtCoder
 ---
 
 # floyd warshall

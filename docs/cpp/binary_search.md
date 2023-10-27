@@ -1,7 +1,7 @@
 ---
 title: 二分探索
 layout: default
-parent: cpp
+parent: AtCoder
 ---
 
 # Binary Search (二分探索)

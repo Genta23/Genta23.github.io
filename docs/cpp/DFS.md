@@ -1,7 +1,7 @@
 ---
 title: 深さ優先探索
 layout: default
-parent: cpp
+parent: AtCoder
 ---
 
 # DFS

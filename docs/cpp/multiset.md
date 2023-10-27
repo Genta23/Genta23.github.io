@@ -1,7 +1,7 @@
 ---
 title: multiset
 layout: default
-parent: cpp
+parent: AtCoder
 ---
 
 # multiset

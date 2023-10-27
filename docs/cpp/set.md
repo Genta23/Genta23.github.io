@@ -1,7 +1,7 @@
 ---
 title: set
 layout: default
-parent: cpp
+parent: AtCoder
 ---
 # set
 

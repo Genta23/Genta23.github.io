@@ -1,7 +1,7 @@
 ---
 title: 動的計画法
 layout: default
-parent: cpp
+parent: AtCoder
 ---
 
 # DP (動的計画法)

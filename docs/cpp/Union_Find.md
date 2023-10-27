@@ -1,7 +1,7 @@
 ---
 title: Union Find
 layout: default
-parent: cpp
+parent: AtCoder
 ---
 
 # Union-Find
