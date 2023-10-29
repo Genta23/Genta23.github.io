@@ -2,6 +2,7 @@
 title: 深さ優先探索
 layout: default
 parent: AtCoder
+has_children: true 
 ---
 
 # DFS
@@ -44,7 +45,7 @@ void dfs(int node, vector<vector<int>> &graph, vector<bool> &seen) // 修正後
 
 したがって値渡しではなく、参照渡しを使用し処理時間の増大が起きないように修正する。
 
-### 練習問題
+### 練習問題 (BFSの練習問題として表記したものを除外しています。)
 <a href="https://atcoder.jp/contests/abc204/tasks/abc204_c" target="_blank">AtCoder ABC 204 C - Tour</a>
 
 <a href="https://atcoder.jp/contests/abc213/tasks/abc213_d" target="_blank">AtCoder ABC 213 D - Takahashi Tour</a>

@@ -1,5 +1,5 @@
 ---
-title: 0 幅優先探索 チュートリアル
+title: 0 幅優先探索
 layout: default
 parent: 幅優先探索
 grand_parent: AtCoder
