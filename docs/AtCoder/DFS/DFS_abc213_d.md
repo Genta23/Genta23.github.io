@@ -1,5 +1,5 @@
 ---
-title: 710 木構造の旅 経路表示
+title: 710 オイラーツアー
 layout: default
 parent: 深さ優先探索
 grand_parent: AtCoder

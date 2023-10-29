@@ -1,7 +1,8 @@
 ---
 title: map
 layout: default
-parent: AtCoder
+parent: 標準ライブラリ解説
+grand_parent: AtCoder
 ---
 # map
 

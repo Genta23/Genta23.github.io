@@ -1,7 +1,8 @@
 ---
-title: 二分探索
+title: binary search
 layout: default
-parent: AtCoder
+parent: 標準ライブラリ解説
+grand_parent: AtCoder
 ---
 
 # Binary Search (二分探索)

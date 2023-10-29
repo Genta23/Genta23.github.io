@@ -14,6 +14,8 @@ BFSがキューを使用するのに対して、DFSではスタックを使用�
 
 しかし実際にはスタックは使用せず、再帰関数で実装する。
 
+フラグの変更タイミングをミスってTLEとかたまにやらかすので注意。
+
 ## 実装上の注意
 ```cpp
 void dfs(int node, vector<vector<int>> graph, vector<bool> seen){
@@ -45,14 +47,10 @@ void dfs(int node, vector<vector<int>> &graph, vector<bool> &seen) // 修正後
 
 したがって値渡しではなく、参照渡しを使用し処理時間の増大が起きないように修正する。
 
-### 練習問題 (BFSの練習問題として表記したものを除外しています。)
-<a href="https://atcoder.jp/contests/abc204/tasks/abc204_c" target="_blank">AtCoder ABC 204 C - Tour</a>
-
-<a href="https://atcoder.jp/contests/abc213/tasks/abc213_d" target="_blank">AtCoder ABC 213 D - Takahashi Tour</a>
-
-<a href="https://atcoder.jp/contests/abc277/tasks/abc277_c" target="_blank">AtCoder ABC 277 C - Ladder Takahashi</a>
-
 ### 参考にしたサイト
 <a href="https://qiita.com/drken/items/4a7869c5e304883f539b" target="_blank">DFS (深さ優先探索) 超入門！ 〜 グラフ・アルゴリズムの世界への入口 〜【前編】</a>
 
 <a href="https://qiita.com/agate-pris/items/05948b7d33f3e88b8967" target="_blank">C++ 値渡し、ポインタ渡し、参照渡しを使い分けよう</a>
+
+### 練習問題 (BFSの練習問題として表記したものを除外しています。)
+

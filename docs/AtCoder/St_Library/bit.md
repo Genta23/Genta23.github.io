@@ -1,9 +1,9 @@
 ---
 title: bit全探索
 layout: default
-parent: AtCoder
+parent: 標準ライブラリ解説
+grand_parent: AtCoder
 ---
-
 # bit
 部分集合の列挙を行いたいときに、便利なのがビット全探索である。
 
