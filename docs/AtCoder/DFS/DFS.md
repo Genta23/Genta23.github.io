@@ -52,5 +52,5 @@ void dfs(int node, vector<vector<int>> &graph, vector<bool> &seen) // 修正後
 
 <a href="https://qiita.com/agate-pris/items/05948b7d33f3e88b8967" target="_blank">C++ 値渡し、ポインタ渡し、参照渡しを使い分けよう</a>
 
-### 練習問題 (BFSの練習問題として表記したものを除外しています。)
+## 深さ優先探索問題集
 
