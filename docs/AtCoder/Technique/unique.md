@@ -42,7 +42,7 @@ uniqueでは末尾付近のゴミの開始位置のイテレータを返しま�
 このスライドは結構わかりやすいんじゃないかなと思います。
 
 <div style="width: 100%; aspect-ratio: 16/9;">
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRUrVutWmNFWW0ptMMz9Ifx-bK2TQe6Mwfekr51TGBdnuc1HYHW-Q9WtwWTf9CNOO0uAq4jiJe_Nzax/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRUrVutWmNFWW0ptMMz9Ifx-bK2TQe6Mwfekr51TGBdnuc1HYHW-Q9WtwWTf9CNOO0uAq4jiJe_Nzax/embed?start=false&loop=false&delayms=1000" frameborder="0" width="100%" height="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
 さらにスライドから、計算量がO(N)であることと、ゴミが発生する理由が分かると思います。
