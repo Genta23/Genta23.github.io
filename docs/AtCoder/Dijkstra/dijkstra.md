@@ -20,4 +20,7 @@ startからそれぞれの経路までの最短距離を計算することがで
 
 よるあるケースとしては辺の重みをint型で管理して、オーバーフローして負の辺を含み、無限ループが発生しTLEするということです。
 
+## 時間があれば解きたい
+<a href="https://atcoder.jp/contests/abc297/tasks/abc297_e" target="_blank">E - Kth Takoyaki Set</a>
+
 ## ダイクストラ法問題集
