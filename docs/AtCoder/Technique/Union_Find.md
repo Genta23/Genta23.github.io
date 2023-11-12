@@ -1,7 +1,8 @@
 ---
 title: Union Find
 layout: default
-parent: AtCoder
+parent: 手法解説
+grand_parent: AtCoder
 ---
 
 # Union-Find

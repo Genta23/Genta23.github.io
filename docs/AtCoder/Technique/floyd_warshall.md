@@ -1,7 +1,8 @@
 ---
 title: ワーシャルフロイド法
 layout: default
-parent: AtCoder
+parent: 手法解説
+grand_parent: AtCoder
 ---
 
 # floyd warshall
