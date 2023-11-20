@@ -5,6 +5,6 @@ parent: Research
 has_children: true
 ---
 
-# algorithm
+# Algorithm
 
 I write explanations of the algorithm (or terminology) I learned.
