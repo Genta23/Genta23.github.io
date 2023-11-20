@@ -1,7 +1,8 @@
 ---
 title: A*
 layout: default
-parent: Research
+parent: Algorithm
+grand_parent: Research
 ---
 # A*とは
 

@@ -1,7 +1,8 @@
 ---
 title: PBIT
 layout: default
-parent: Research
+parent: Algorithm
+grand_parent: Research
 ---
 # PBITとは
 

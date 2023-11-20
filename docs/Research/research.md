@@ -6,7 +6,7 @@ has_children: true
 
 # Research
 
-I would like to write about my research in this page.
+On this page, I would like to write about my research.
 
 ## Related fields
 - Distributed Algorithm
