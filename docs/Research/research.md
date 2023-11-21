@@ -17,17 +17,19 @@ On this page, I would like to write about my research.
 
 ## Papers I want to read
 
-- <a href="https://arxiv.org/pdf/2301.04446.pdf" target="_blank">An Efficient Approach to the Online Multi-Agent Path Finding Problem by Using Sustainable Information</a>
+### Centralized, Online MAPF
+
+- <a href="https://arxiv.org/abs/2301.04446" target="_blank">An Efficient Approach to the Online Multi-Agent Path Finding Problem by Using Sustainable Information</a>
+
+- <a href="https://arxiv.org/abs/2010.08184" target="_blank">PRIMAL2: Pathfinding via Reinforcement and Imitation Multi-Agent Learning -- Lifelong</a>
+
+### Decntralized, Online MAPF
 
 - <a href="https://ras.papercept.net/images/temp/IROS/files/2094.pdf" target="_blank">Decentralized Safe Reactive Planning under TWTL Specifications</a>
-
-- <a href="https://ieeexplore.ieee.org/document/7419035" target="_blank">Cooperative SLAM on small mobile robots</a>
 
 - <a href="https://arxiv.org/abs/2011.13219" target="_blank">Message-Aware Graph Attention Networks for Large-Scale Multi-Robot Path Planning</a>
 
 - <a href="https://arxiv.org/abs/1912.06095" target="_blank">Graph Neural Networks for Decentralized Multi-Robot Path Planning</a>
-
-- <a href="https://ieeexplore.ieee.org/document/9732989" target="_blank">On the Scalability of Vision-Based Drone Swarms in the Presence of Occlusions</a>
 
 - <a href="https://www.mdpi.com/1424-8220/18/8/2612" target="_blank">Decentralized Online Simultaneous Localization and Mapping for Multi-Agent Systems</a>
 
@@ -41,9 +43,13 @@ On this page, I would like to write about my research.
 
 - <a href="https://www.ifaamas.org/Proceedings/aamas2013/docs/p87.pdf" target="_blank">Push and Rotate: Cooperative Multi-Agent Path Planning</a>
 
-- <a href="https://ieeexplore.ieee.org/document/10160941" target="_blank">Cross-Agent Relocalization for Decentralized Collaborative SLAM</a>
+### SLAM, swarm
 
-- <a href="https://arxiv.org/abs/2010.08184" target="_blank">PRIMAL2: Pathfinding via Reinforcement and Imitation Multi-Agent Learning -- Lifelong</a>
+- <a href="https://ieeexplore.ieee.org/document/7419035" target="_blank">Cooperative SLAM on small mobile robots</a>
+
+- <a href="https://ieeexplore.ieee.org/document/9732989" target="_blank">On the Scalability of Vision-Based Drone Swarms in the Presence of Occlusions</a>
+
+- <a href="https://ieeexplore.ieee.org/document/10160941" target="_blank">Cross-Agent Relocalization for Decentralized Collaborative SLAM</a>
 
 ## Papers that have been read
 
@@ -56,6 +62,6 @@ On this page, I would like to write about my research.
 
 - <a href="https://ojs.aaai.org/index.php/AAAI/article/view/4769" target="_blank">Online Multi-Agent Pathfinding</a>
 
-### Decentralized SLAM
+### SLAM, swarm
 
 - <a href="https://www.science.org/doi/10.1126/scirobotics.abm5954" target="_blank">Swarm of micro flying robots in the wild</a>
