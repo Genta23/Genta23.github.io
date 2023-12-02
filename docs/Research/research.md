@@ -25,7 +25,7 @@ On this page, I would like to write about my research.
 
 ### Decntralized, Online MAPF
 
-- <a href="https://ras.papercept.net/images/temp/IROS/files/2094.pdf" target="_blank">Decentralized Safe Reactive Planning under TWTL Specifications</a>
+- <a href="https://ieeexplore.ieee.org/abstract/document/9341624" target="_blank">Decentralized Safe Reactive Planning under TWTL Specifications</a>
 
 - <a href="https://arxiv.org/abs/2011.13219" target="_blank">Message-Aware Graph Attention Networks for Large-Scale Multi-Robot Path Planning</a>
 
@@ -33,9 +33,9 @@ On this page, I would like to write about my research.
 
 - <a href="https://www.mdpi.com/1424-8220/18/8/2612" target="_blank">Decentralized Online Simultaneous Localization and Mapping for Multi-Agent Systems</a>
 
-- <a href="https://openreview.net/pdf?id=vMV4tsA639" target="_blank">Learn to Follow: Lifelong Multi-agent Pathfinding with Decentralized Replanning</a>
+- <a href="https://arxiv.org/abs/2310.01207" target="_blank">Learn to Follow: Lifelong Multi-agent Pathfinding with Decentralized Replanning</a>
 
-- <a href="https://core.ac.uk/download/pdf/333643548.pdf" target="_blank">Decentralized Multi-Agent Path Finding for UAV Traffic Management</a>
+- <a href="https://ieeexplore.ieee.org/document/9187227" target="_blank">Decentralized Multi-Agent Path Finding for UAV Traffic Management</a>
 
 - <a href="https://ieeexplore.ieee.org/document/8962201" target="_blank">Walk, Stop, Count, and Swap: Decentralized Multi-Agent Path Finding With Theoretical Guarantees</a>
 
