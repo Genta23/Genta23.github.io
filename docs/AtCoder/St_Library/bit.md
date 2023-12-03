@@ -1,7 +1,7 @@
 ---
 title: bit全探索
 layout: default
-parent: 標準ライブラリ解説
+parent: ライブラリ解説(標準)
 grand_parent: AtCoder
 ---
 # bit

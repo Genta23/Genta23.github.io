@@ -1,7 +1,7 @@
 ---
 title: ダイクストラ法
 layout: default
-parent: ライブラリ解説
+parent: ライブラリ解説(自作)
 grand_parent: AtCoder
 ---
 

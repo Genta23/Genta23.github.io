@@ -1,5 +1,5 @@
 ---
-title: 標準ライブラリ解説
+title: ライブラリ解説(標準)
 layout: default
 parent: AtCoder
 has_children: true

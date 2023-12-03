@@ -9,14 +9,14 @@ grand_parent: AtCoder
 <a href="https://atcoder.jp/contests/abc330/tasks/abc330_c" target="_blank">C - Minimize Abs 2</a>
 
 ## 1WA, 2WA
-非負整数とみてなぜか1から演算をし、0を除くと言う謎ムーブ
+非負整数とみてなぜかforを1から回し、0を除くと言う謎ムーブ
 
 ## 3WA
-最初は1を使用していたため、
+最初は1からループを回していたため、
 ```cpp
 for(ll i=1; i<=2000000; i++)
 ```
-と記述していたが、0からできるため、
+と記述していたが、0からであることに気づいたため、
 ```cpp
 rep(i, 2000000)
 ```
