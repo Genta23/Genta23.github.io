@@ -1,5 +1,5 @@
 ---
-title: 二次元配列外参照対策
+title: 任意の整数の倍数切り捨て
 layout: default
 parent: ライブラリ解説(自作)
 grand_parent: AtCoder
@@ -23,6 +23,12 @@ ll k = 1234;
 floor_multiple(k, 3LL);
 ```
 
+まぁ別の解決方法もあるのですが...型厳密にした方がミスを防げるかなと
+
+```cpp
+template<typename T, typename U> T floor_multiple(T k, U m){ return k - ((k%m+m)%m); }
+```
+
 kにlong longを使用した場合はmにもlong longを使用しましょう。
 
 ## mの倍数のうちk以上の整数の最小値を求める
@@ -35,4 +41,3 @@ kにlong longを使用した場合はmにもlong longを使用しましょう。
 int k = 1234, m = 3;
 floor_multiple(k-1, m) + m;
 ```
-
