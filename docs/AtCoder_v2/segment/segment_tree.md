@@ -1,7 +1,7 @@
 ---
-title: segment tree 入門
+title: segment tree 図解
 layout: default
-parent: 考察 解説
+parent: segment tree
 grand_parent: Atcoder (Dec. 2, 2023〜)
 ---
 
