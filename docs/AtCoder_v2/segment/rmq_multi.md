@@ -1,5 +1,5 @@
 ---
-title: RMQ 区間更新
+title: 区間更新 区間最小値
 layout: default
 parent: segment tree
 grand_parent: Atcoder (Dec. 2, 2023〜)

@@ -1,5 +1,5 @@
 ---
-title: RMQ, RAQ 区間更新
+title: 区間加算 区間最小値
 layout: default
 parent: segment tree
 grand_parent: Atcoder (Dec. 2, 2023〜)
@@ -7,7 +7,7 @@ grand_parent: Atcoder (Dec. 2, 2023〜)
 
 <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 
-# RMQ and RAQ 区間更新
+# RMQ and RAQ 区間加算
 
 区間加算系の問題です。lazy segment tree を使用します。
 
@@ -16,7 +16,7 @@ grand_parent: Atcoder (Dec. 2, 2023〜)
 ## 使用するテンプレート
 
 ```cpp
-/* RMQ：[0,n-1] について、区間ごとの最小値を管理する構造体
+/*
     update(a,b,x): 区間[a,b) の要素に x を加算。O(log(n))
     query(a,b): [a,b) での最小の要素を取得。O(log(n))
 */

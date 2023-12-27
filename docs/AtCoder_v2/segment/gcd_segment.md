@@ -1,5 +1,5 @@
 ---
-title: 区間の最大公約数
+title: 区間最大公約数
 layout: default
 parent: segment tree
 grand_parent: Atcoder (Dec. 2, 2023〜)
