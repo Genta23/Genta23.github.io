@@ -1,5 +1,5 @@
 ---
-title: Contest 感想
+title: 動的計画法
 layout: default
 parent: Atcoder (Dec. 2, 2023〜)
 has_children: true
