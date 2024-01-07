@@ -1,7 +1,7 @@
 ---
 title: Link Slider
 layout: default
-parent: Blog
+parent: Blog(tech)
 ---
 
 # Link Slider

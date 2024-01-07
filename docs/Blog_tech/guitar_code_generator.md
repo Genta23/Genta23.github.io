@@ -1,7 +1,7 @@
 ---
 title: Guitar Code Generator
 layout: default
-parent: Blog
+parent: Blog(tech)
 ---
 
 # Guitar Code Generator

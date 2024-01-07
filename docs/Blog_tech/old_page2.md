@@ -1,7 +1,7 @@
 ---
 title: Gentaの旧ページ2
 layout: default
-parent: Blog
+parent: Blog(tech)
 ---
 
 # Gentaの旧ページ2
