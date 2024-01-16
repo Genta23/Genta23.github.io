@@ -41,8 +41,6 @@ On this page, I would like to write about my research.
 
 - <a href="https://arxiv.org/abs/2201.04012" target="_blank">Decentralized Probabilistic Multi-Robot Collision Avoidance Using Buffered Uncertainty-Aware Voronoi Cells</a>
 
-- <a href="https://www.ifaamas.org/Proceedings/aamas2013/docs/p87.pdf" target="_blank">Push and Rotate: Cooperative Multi-Agent Path Planning</a>
-
 ### SLAM, swarm
 
 - <a href="https://ieeexplore.ieee.org/document/7419035" target="_blank">Cooperative SLAM on small mobile robots</a>
@@ -57,6 +55,8 @@ On this page, I would like to write about my research.
 - <a href="https://kei18.github.io/phd-dissertation/" target="_blank">Planning, Execution, Representation, and their Integration for Multiple Moving Agents</a>
 
 - <a href="http://svancara.net/files/ICAART_2023_SP_study.pdf" target="_blank">Multi-agent Pathfinding on Large Maps Using Graph Pruning : This Way or That Way?</a>
+
+- <a href="https://www.ifaamas.org/Proceedings/aamas2013/docs/p87.pdf" target="_blank">Push and Rotate: Cooperative Multi-Agent Path Planning</a>
 
 ### Centralized, Online MAPF
 
