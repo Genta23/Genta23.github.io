@@ -1,5 +1,5 @@
 ---
-title: Blog(tech)
+title: Blog
 layout: default
 has_children: true
 ---
