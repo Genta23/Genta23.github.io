@@ -1,3 +1,4 @@
+<!--
 ---
 title: openFrameworks
 layout: default
@@ -8,3 +9,4 @@ has_children: true
 
 openFrameworksを使用して開発をすることがあるので、忘れないようにまとめておきます。
 
+-->

@@ -1,3 +1,4 @@
+<!--
 ---
 title: segment tree 2
 layout: default
@@ -19,3 +20,4 @@ lazy segment treeは<a href="https://atcoder.github.io/ac-library/document_ja/la
 
 こちらのサイトがわかりやすかったです。
 - <a href="https://betrue12.hateblo.jp/entry/2020/09/22/194541" target="_blank">AtCoder LibraryのLazy Segtreeの使い方</a>
+-->
